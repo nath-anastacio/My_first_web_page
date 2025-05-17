@@ -19,7 +19,9 @@ Página da web simples, desenvolvida como um dos exercícios práticos do curso 
 Você também pode acessar a página online clicando ✨<a href="https://my-first-web-page-iota.vercel.app/">aqui</a>✨
 
 ## 👩‍💻 Autora:
-Feito por ✨[Nathália Anastácio](https://github.com/nath-anastacio)✨
+
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/172634421?v=4" width=115><br><sub>Nathália Anastácio</sub>](https://github.com/nath-anastacio)
+
 ### 💬 Você pode me encontrar em:
 <div>
   <a href="https://www.linkedin.com/in/nathalia-anastacio/" target="_blank"><img src= "https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/> </a>
